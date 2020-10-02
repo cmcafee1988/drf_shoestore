@@ -1,0 +1,11 @@
+setup.py
+djangorest/__init__.py
+djangorest/asgi.py
+djangorest/settings.py
+djangorest/urls.py
+djangorest/wsgi.py
+djangorest.egg-info/PKG-INFO
+djangorest.egg-info/SOURCES.txt
+djangorest.egg-info/dependency_links.txt
+djangorest.egg-info/requires.txt
+djangorest.egg-info/top_level.txt
